@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var markdown2text = require('./');
 
 var data = '';
