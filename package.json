@@ -1,0 +1,15 @@
+{
+  "name": "markdown2text",
+  "version": "1.0.0",
+  "description": "CLI Tool + library to convert markdown to text",
+  "main": "index.js",
+  "bin": {
+    "markdown2text": "./index.js"
+  },
+  "keywords": [],
+  "author": "George Pittarelli <g@gjp.cc>",
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^8.4.2"
+  }
+}
