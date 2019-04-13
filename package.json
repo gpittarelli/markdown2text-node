@@ -1,6 +1,6 @@
 {
   "name": "markdown2text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI Tool + library to convert markdown to text",
   "main": "index.js",
   "bin": {
